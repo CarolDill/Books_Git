@@ -1,0 +1,18 @@
+.bookimg{
+  max-width: 100px;
+}
+
+.bookimg img{
+  width: 100%;
+}
+
+.bookSpace{
+  display: flex;
+  justify-content: space-between;
+  margin: 30px
+}
+
+button{
+  height: 30px;
+  margin-left: 30px;
+}
